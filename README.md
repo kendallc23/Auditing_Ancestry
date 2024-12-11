@@ -10,6 +10,7 @@ The audit employs the Algorithmic Ecology framework developed by the Stop LAPD S
 - Operational
 - Institutional 
 - Ideological
+  
 See here for more information: [Stop LAPD Spying Coalition's Algorithmic Ecology Framework](https://stoplapdspying.medium.com/the-algorithmic-ecology-an-abolitionist-tool-for-organizing-against-algorithms-14fcbd0e64d0)
 
 
